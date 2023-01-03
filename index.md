@@ -29,6 +29,3 @@ The chapter leadership board is as follows:
     
 </table>
 
-
-## Next Meeting/Event
----------------------
