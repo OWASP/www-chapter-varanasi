@@ -11,6 +11,7 @@ meetup-group: owasp-varanasi
 
 ## Welcome
 
+![owasp](https://user-images.githubusercontent.com/41550932/210406155-4f01d87a-64f0-4520-bb98-537f40604aef.png)
 
 
 Chapter Leadership
