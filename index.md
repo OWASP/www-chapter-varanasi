@@ -1,5 +1,6 @@
 ---
 
+layout: col-sidebar
 title: OWASP Varanasi
 site_side: true
 tags: owasp-varanasi
