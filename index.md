@@ -32,4 +32,3 @@ The chapter leadership board is as follows:
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %} 
