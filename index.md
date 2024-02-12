@@ -27,5 +27,5 @@ The chapter leadership board is as follows:
   
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-    <td><a href="mailto:sunny.singh@owasp.org">Sunny Singh</a><br/><a href="mailto:ravi.singh@owasp.org">Ravi Singh</a><br/></table>
+    <td><a href="mailto:sunny.singh@owasp.org">Sunny Singh</a><br/><a href="mailto:ravi.singh@owasp.org">Ravi Singh</a><br/></td></tr></table>
 
