@@ -1,0 +1,25 @@
+leaders:
+  - name: Sunny Singh
+    email: sunny.singh@owasp.org
+    github: sunny6300
+  - name: Ravi Singh
+    email: ravi.singh@owasp.org
+    github: itsrvsingh
+location:
+  country: India
+  country_code: IN
+  region: Uttar Pradesh
+  city: Varanasi
+  latitude: 25.3356491
+  longitude: 83.0076292
+meetup_group: owasp-varanasi
+name: OWASP Varanasi
+repositories:
+  - name: www-chapter-varanasi
+    url: https://github.com/OWASP/www-chapter-varanasi
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-varanasi
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-varanasi
